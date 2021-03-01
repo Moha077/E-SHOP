@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844756443565",
+    "project_id": "shopping-2dbb0",
+    "storage_bucket": "shopping-2dbb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844756443565:android:b51a56966a3da3da898124",
+        "android_client_info": {
+          "package_name": "com.example.echrili_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844756443565-m3m28kmltj8tucf2r0294m1s19kr8rpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGd3Ck5bgmpnt4aaJSE486k-sgR2u8Ez4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844756443565-m3m28kmltj8tucf2r0294m1s19kr8rpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
